@@ -18,14 +18,7 @@
       border-style:ridge;
   }
 
-  button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 10px 42px;
-    font-size: 16px;
-  }
-
+  
   input
   {
     margin-right: 20px;
